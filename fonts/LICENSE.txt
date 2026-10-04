@@ -1,0 +1,1 @@
+Fonts: Oswald and Inter (subset WOFF), SIL Open Font License 1.1, https://openfontlicense.org
